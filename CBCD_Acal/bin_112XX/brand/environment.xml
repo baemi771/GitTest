@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<environment version="0.1.9">
+  <web>
+    <logoimage>/images/logo.png</logoimage>
+    <logourl>/main.html</logourl>
+    <logopos>left</logopos>
+    <topname>IP CAMERA</topname>
+    <namepos>center</namepos>
+    <menupos>right</menupos>
+    <skin>user</skin>
+    <lang>/language/English.xml</lang>
+  </web>
+</environment>
